@@ -1,0 +1,16 @@
+body{
+    padding: 100px;
+}
+
+.form{
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+
+.btn-success{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+}
